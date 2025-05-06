@@ -1,0 +1,18 @@
+{
+  "noise_amp": 0.5,
+  "euchromatin_noise_factor": 0.3,
+  "heterochromatin_noise_factor": 0.3,
+  "n_steps": 5000,
+  "save_every": 50,
+  "checkpoint_every": 1000,
+  "lambda0": 2.0,
+  "boundary_factor": 1.0,
+  "with_droplets": true,
+  "num_droplets": 12,
+  "min_radius_factor": 0.15,
+  "max_radius_factor": 0.25,
+  "droplet_spacing": 0.1,
+  "droplet_placement_radius": 0.9,
+  "allow_overlap": true,
+  "overlap_strength": 1.0
+} 
